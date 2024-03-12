@@ -1,0 +1,14 @@
+.container-fluid {
+  height: 100vh;
+}
+
+.container {
+  border: 2px solid black;
+  border-radius: 20px;
+  max-width: 500px;
+}
+
+body {
+  font-family: "Ubuntu", sans-serif;
+  font-style: normal;
+}
